@@ -2,7 +2,7 @@
 
 For this [DAO](https://ethereum.org/en/dao/), a fake NFT marketplace has been created but pre-existing ones can also be used. The DAO allows the [BPH Token Holders](https://sepolia.etherscan.io/token/0x27357ef37b72726dbd6a15b9f5e9ba9729327fcd#balances) (DAO owners) to create and execute proposals to buy new NFTs while allowing everybody to view all the proposals created upto date. The owners may withdraw their share of tokens (eth) from the DAO whenever required.
 
-The project can be viewed [here](https://dao-omega-teal.vercel.app/). <br />
+The project can be viewed [here](https://dao-omega-five.vercel.app/). <br />
 The contract can be accessed [here](https://sepolia.etherscan.io/address/0x1a3f436b9b7d72463ffba8f52b6f7a10756ddbf4). <br />
 The BPH Token can be viewed [here](https://sepolia.etherscan.io/token/0x27357ef37b72726dbd6a15b9f5e9ba9729327fcd). <br />
 The fake NFT marketplace can be viewed [here](https://sepolia.etherscan.io/address/0x9a804737b230c06e4ee01e5e4eb9f23d52855832).
